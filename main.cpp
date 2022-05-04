@@ -4,6 +4,6 @@ using namespace std;
 
 int main(){
 
-  cout<<"Hola Univercidad"
+  cout<<"Hola Universidad"
   
 }
